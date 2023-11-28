@@ -48,4 +48,4 @@ intList.Add(1);
 intList.Add(2);
 ```
 
-In general, if you only need the features provided by the IList interface and want to be more flexible with the underlying implementation, you might choose to work with IList. However, if you need a dynamic array-based implementation with additional features, you would use the List class.
+In general, if you only need the features provided by the IList interface and want to be **`more flexible with the underlying implementation`**, you might choose to work with IList. However, if you need a **`dynamic array-based implementation with additional features`**, you would use the List class.
