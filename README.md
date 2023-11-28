@@ -70,7 +70,7 @@ The **`List<T>`** class in C# provides additional features beyond what is includ
 
 3. **`Binary Search`**:
 
-**`BinarySearch()`**: The **`List<T>`** class provides a binary search method for efficiently searching for an element in a sorted list.
+* **`BinarySearch()`**: The **`List<T>`** class provides a binary search method for efficiently searching for an element in a sorted list.
 
 4. **`Sorting`**:
 
